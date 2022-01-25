@@ -1,6 +1,8 @@
 #include <iostream>
 
+using namespace std;
+
 int main()
 {
-  std::cout("ingore this file is only for GitHub :)")
+  cout("ingore this file is only for GitHub :)")
 }
