@@ -9,3 +9,6 @@ Stay Tuned! i am working on that!
 <br/>
 [`My Discord Community`](https://discord.gg/635ysHGDG6)
 [`GitHub`](https://github.com/Th3Spl)
+<br />
+<br/>
+![Life Style](https://i.imgur.com/2Rn7HYe.png)
